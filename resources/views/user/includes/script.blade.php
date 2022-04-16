@@ -1,0 +1,4 @@
+<script src="{{url('vendor/jquery/jquery.min.js')}}"></script>
+<script src="{{url('vendor/bootstrap/js/bootstrap.bundle.min.js')}}"></script>
+<script src="{{asset ('vendor/jquery-easing/jquery.easing.min.js')}}"></script>
+<script src="{{asset ('js/sb-admin-2.min.js')}}"></script>
